@@ -1,0 +1,18 @@
+.footer-Section  {
+    text-align: center;
+    border-top: 3px solid white;
+    padding: 10px 0;
+}
+
+.footer-Section a {
+    color: grey;
+    font-size: 20px;
+    font-weight: bolder;
+    text-shadow: 1px 1px white;
+}
+
+.footer-Section p {
+    color: grey;
+    font-size: 17px;
+    text-shadow: 1px 1px white;
+}
