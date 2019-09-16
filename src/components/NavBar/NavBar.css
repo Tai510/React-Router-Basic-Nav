@@ -1,0 +1,20 @@
+.nav-Section {
+    height: 35px;
+    padding-top: 9px;
+    background-color: #60C847;
+    height: 50px;
+    font-family: 'Gayathri', sans-serif;
+    text-shadow: 1px 1px black;
+}
+
+.nav-Section a {
+    margin: 0 50px;
+    font-size: 23px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    text-shadow: 1px 1px grey;
+}
+
+
